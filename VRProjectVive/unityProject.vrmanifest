@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrexampleinteractions.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\School\\Jaar2\\NewTechnologies\\VRProjectVivePublicRepo\\VRProjectVive\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VRExampleInteractions [Testing]"
+        }
+      }
+    }
+  ]
+}
